@@ -1,1 +1,1 @@
-# Image-Similarity-Engine-via-AutoEncoder
+# Image Similarity Engine via AutoEncoder
