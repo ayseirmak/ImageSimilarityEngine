@@ -3,8 +3,10 @@ An image similarity search engine has been developed which identifies images sim
 
 ## Modules:
 The study consists of two modules: Image Similarity Model and User Interface Platform.
+
 (1) In the image similarity model, suitable compressed representation vectors of the images in the dataset specified by the user and the image selected by the user are generated. Within the scope of the similarity metric specified by the user, the closest vectors to the representation vector of the selected image are found among the extracted representation (latent) vectors by using the nearest neighbour algorithm. The images to which the found vectors belong are stored.
 ### Workflow
 ![image](https://github.com/ayseirmak/ImageSimilarityEngine/assets/152956281/9fb5a334-c87e-4cf1-92d9-1876cfa62897)
 
 (2) The user interface module is a platform where the user can enter the parameters determined for the image similarity model. The image similarity model is executed according to the parameters given by the user, and the images obtained as a result of the model are presented to the user through this platform.
+![image](https://github.com/ayseirmak/ImageSimilarityEngine/assets/152956281/1bca4b79-5652-4012-b0c5-b1fd8ca77935)
