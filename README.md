@@ -19,7 +19,7 @@ The study consists of two modules: Image Similarity Model and User Interface Pla
 
 When analysing the experiments, it was observed that the model obtained by training model 6, which was created as part of this study, using the ReduceLROnPlateue modifier showed high performance compared to other models. In this case, it was observed that as the latent vector size decreases and the number of channels increases, better quality models emerge with appropriate training parameters. In addition, when analysing the experiments, it was observed that using the Max Pool method and choosing the Cosine distance metric resulted in higher similarity performance compared to other <Embedding Method, Distance Metric> combinations.
 
-You can run App in your local by using datsets, models and streamlit App in the repo.
+You can run App in your local by using datsets ([dataset1](https://www.kaggle.com/datasets/vishweshsalodkar/wild-animals), [dataset2](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)), models and streamlit App in the repo.
 Please ensure that you should setup your environment as follow:
 
 Framework|Version
